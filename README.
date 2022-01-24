@@ -1,0 +1,5 @@
+The R scripts in this repository contain the code necessary to reproduce simulations and data analysis of the manuscript "Functional Data Analysis for Longitudinal Data with Informative Observation Times" (C. Weaver, L. Xiao, and W. Lu). The repository contains two folder:
+
+- face_src.R contains the code necessary to run mean and covariance estimation
+- sims.R contains the code necessary to create the simulation data
+
